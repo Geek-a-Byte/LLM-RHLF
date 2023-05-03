@@ -5,6 +5,9 @@ raw idea: a conversational bot which will work as an automated detector of unfai
 
 ## dataset
 - https://github.com/corticai/claudette
+- The clauses are broken up into 9 categories as per described below. The fairness is measured on a scale of 1 - 4 (Fair: 1, Potentially Unfair: 2, Clearly Unfair: 3, Unclassified: 4)
+
+![414e33_7eabace3b393446dac6e8654b595f5f7~mv2 (1)](https://user-images.githubusercontent.com/59027621/236007632-1400bf42-adb6-4b23-94f5-686d59cef10f.png)
 
 ## necessary papers
 - [ ] https://arxiv.org/abs/1706.03762
