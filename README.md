@@ -14,7 +14,4 @@ raw idea: a conversational bot which will work as an automated detector of unfai
 
 ## constraints
 - [ ] should be able to have large amount of data as input
-- the problem of chatgpt
-![image](https://user-images.githubusercontent.com/59027621/235886830-c52c87de-6663-480d-aedf-0b29cc4e3e87.png)
-
 - [ ] the model should be constantly learning from the conversations
