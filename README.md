@@ -10,6 +10,7 @@ raw idea: a conversational bot which will work as an automated detector of unfai
 - [ ] https://arxiv.org/abs/1706.03762
 - [ ] https://arxiv.org/pdf/1805.01217v2.pdf
 - [ ] https://www.corticai.com/post/machine-learning-nlp-applications-contract-clauses-legal-review
+- [ ] https://link.springer.com/article/10.1007/s10506-019-09243-2
 
 ## constraints
 - [ ] should be able to have large amount of data as input
