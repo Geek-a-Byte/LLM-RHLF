@@ -3,6 +3,9 @@ raw idea: a conversational bot which will work as an automated detector of unfai
 
 - GPT [Generative pre-trained transformer]
 
+## dataset
+- https://github.com/corticai/claudette
+
 ## necessary papers
 - [ ] https://arxiv.org/abs/1706.03762
 - [ ] https://arxiv.org/pdf/1805.01217v2.pdf
